@@ -1,4 +1,4 @@
-package me.weishu.kernelsu
+package tv.danmaku.bili
 
 import android.app.Application
 import android.content.pm.ApplicationInfo
